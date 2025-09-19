@@ -1,0 +1,30 @@
+{
+  "name": "threadsmith",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@next/font": "^14.2.15",
+    "next": "^15.5.3",
+    "openai": "^4.0.0",
+    "react": "18.3.1",
+    "react-dom": "18.3.1"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.1.13",
+    "@types/node": "^20.8.0",
+    "@types/react": "^18.2.15",
+    "autoprefixer": "^10.4.21",
+    "eslint": "^8.56.0",
+    "eslint-config-next": "14.2.4",
+    "postcss": "^8.5.6",
+    "prettier": "^3.2.5",
+    "tailwindcss": "^4.1.13",
+    "typescript": "^5.3.3"
+  }
+}
