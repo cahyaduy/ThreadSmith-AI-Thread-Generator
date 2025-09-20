@@ -64,5 +64,5 @@ ThreadSmith is an AI Agent that turns your ideas or topics into ready-to-post Tw
 - **Next.js Documentation:** [https://nextjs.org/docs](https://nextjs.org/docs)  
 - **Tailwind CSS Documentation:** [https://tailwindcss.com/docs](https://tailwindcss.com/docs)  
 - **GitHub Repository:** [https://github.com/cahyaduy/threadsmith](https://github.com/cahyaduy/threadsmith)  
-- **Discord Contact:** [fansyahhs](https://discord.com/users/yourdiscordid)  
+- **Discord Contact:** [fansyahhs](https://discord.com/users/fansyahhs)  
 
